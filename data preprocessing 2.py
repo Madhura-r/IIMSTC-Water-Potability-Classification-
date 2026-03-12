@@ -1,6 +1,3 @@
-from google.colab import files
-uploaded_file = files.upload()
-
 # Import libraries
 import pandas as pd
 import io
